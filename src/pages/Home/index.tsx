@@ -34,7 +34,7 @@ export function Home() {
       minutesAmount: 0,
     },
   })
-
+ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
   const { handleSubmit, watch, reset } = newCycleForm
 
   function handleCreateNewCycle(data: NewCycleFormData) {
@@ -48,6 +48,7 @@ export function Home() {
 
   return (
     <HomeContainer>
+
       <form onSubmit={handleSubmit(handleCreateNewCycle)} action="">
         <FormProvider {...newCycleForm}>
           <NewCycleForm />
