@@ -2,9 +2,13 @@
   Ignite Timer
 </h1>
 
+<div align="center">
+<img src="./src/assets/image.png">
+</div>
+
 ## About
 
-⏳ ignite-timer - Counter to use with Pomodoro technique.
+⏳ ignite Timer - Counter to use with Pomodoro technique.
 
 Project developed during the ReactJS Ignite Course from [Rocketseat](https://www.rocketseat.com.br/ignite).
 
@@ -27,12 +31,12 @@ Before you begin, you will need to have the following tools installed on your ma
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
 In addition, it is good to have an editor to work with the code like [VSCode](https://code.visualstudio.com/)
 
-#### Running the web application (Frontend)
+#### Running
 
 ```bash
 
 # Clone this repository
-$ git clone git@github.com:thilourenco/ignite-timer.git
+$ git clone git@github.com:ThiLourenco/ignite-timer.git
 
 # Access the project folder in your terminal
 $ cd ignite-timer
@@ -43,7 +47,7 @@ $ npm install
 # Run the application in development mode
 $ npm run dev
 
-# The app will open on the port: 3000 - go to http://localhost:3000/
+# The app will open on the port: 5173 - go to http://localhost:5173/
 
 ```
 
@@ -51,9 +55,9 @@ $ npm run dev
 
 ## Technology
 
-#### **Website**  ([React](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/))
-
-- **[PhosphorIcons](https://phosphoricons.com/)**
+- **[React](https://reactjs.org/)**  
+- **[TypeScript](https://www.typescriptlang.org/)**
+- **[Phosphor Icons](https://phosphoricons.com/)**
 - **[date-fns](https://date-fns.org/)**
 - **[Vite](https://vitejs.dev/)**
 - **[React Router](https://v5.reactrouter.com/web/guides/quick-start)**
